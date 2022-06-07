@@ -1,0 +1,8 @@
+Unidecode==1.2.0
+selenium==3.141.0
+pandas==1.2.2
+streamlit==0.76.0
+matplotlib==3.4.0
+requests==2.25.1
+beautifulsoup4==4.9.3
+urllib3==1.21.1
